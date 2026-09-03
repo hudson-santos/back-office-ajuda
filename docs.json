@@ -32,14 +32,7 @@
         }
       ]
     },
-    "groups": [
-      {
-        "group": "Getting Started",
-        "pages": [
-          "index"
-        ]
-      }
-    ]
+    "groups": []
   },
   "logo": {
     "light": "/logo/light.svg",
